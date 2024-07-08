@@ -30,7 +30,7 @@ export default function Hero2() {
                             <div className="hero-content">
                                 {/* <h6 className="wow fadeInUp" data-wow-delay=".2s">Best it SOULTION Provider</h6> */}
                                 <h1 className="wow fadeInUp" data-wow-delay=".4s">
-                                Renting Made Quick & Simple.
+             Renting Made <span style={{color:'#044895'}}>Quick & Simple.</span>
                                 </h1>
                                 <p className="wow fadeInUp" data-wow-delay=".6s">
                                 Your Boston Housing Journey Starts Here.<br /> Simple Solutions for Renters.

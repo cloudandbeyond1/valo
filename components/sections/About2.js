@@ -14,15 +14,15 @@ export default function About2() {
                                     <div className="circle-shape">
                                         <img src="/assets/img/about/circle.png" alt="shape-img" />
                                     </div>
-                                    <div className="counter-shape float-bob-y">
+                                    {/* <div className="counter-shape float-bob-y">
                                         <div className="icon">
                                             <img src="/assets/img/about/icon-1.svg" alt="icon-img" />
                                         </div>
                                         <div className="content">
                                             <h3>For Rent</h3>
-                                            {/* <p>Of Experience</p> */}
+                                         
                                         </div>
-                                    </div>
+                                    </div> */}
                                     <div className="about-image-1 bg-cover wow fadeInLeft" data-wow-delay=".3s" style={{ backgroundImage: 'url("https://frontend-n6489.vercel.app/assets/img/others/about.jpg")' }}>
                                         <div className="about-image-2 wow fadeInUp" data-wow-delay=".5s">
                                             <img src="/assets/img/about/house.png" alt="about-img" />

@@ -7454,13 +7454,32 @@ background-size: cover;
 .single-team-items {
   margin-top: 30px;
 }
-.single-team-items .team-image {
+/* .single-team-items .team-image {
   position: relative;
   height: 364px;
 }
 @media (max-width: 767px) {
   .single-team-items .team-image {
     height: initial;
+  }
+} */
+.single-team-items .team-image {
+  position: relative;
+  height: 225px;
+}
+@media (max-width: 767px) {
+  .single-team-items .team-image {
+    height: initial;
+  }
+}
+@media (max-width: 1199px) {
+  .single-team-items .team-image {
+    height: 175px;
+  }
+}
+@media (max-width: 1440px) {
+  .single-team-items .team-image {
+    height: 175px;
   }
 }
 .single-team-items .team-image img {
