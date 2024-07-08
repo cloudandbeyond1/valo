@@ -1,2 +1,1 @@
-# valo
-valoteam
+# infotek"# RentValo" 
